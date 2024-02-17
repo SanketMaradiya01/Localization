@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7ZV-Xr-yoO"; */
+"7ZV-Xr-yoO.text" = "Label";
+
+/* Class = "UISegmentedControl"; PEp-dy-Nd5.segmentTitles[0] = "First"; ObjectID = "PEp-dy-Nd5"; */
+"PEp-dy-Nd5.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; PEp-dy-Nd5.segmentTitles[1] = "Second"; ObjectID = "PEp-dy-Nd5"; */
+"PEp-dy-Nd5.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RlK-Tw-9wa"; */
+"RlK-Tw-9wa.text" = "Label";
